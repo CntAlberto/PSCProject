@@ -6,17 +6,17 @@ Consider two students in a class-room “using” the single teacher, in the sen
 
 ## First case of study
 Specifications: <br>
-I) the two users should not use the resource simultaneously and each user should always be able to repeat its request-use-release cycle; <br>
-II) the user that first requests the resource should also be first granted access to it; <br>
+- the two users should not use the resource simultaneously and each user should always be able to repeat its request-use-release cycle; <br>
+- the user that first requests the resource should also be first granted access to it; <br>
 
 ## Second case of study
 Specifications: <br>
-I) the two users should not use the resource simultaneously and each user should always be able to repeat its request-use-release cycle; <br>
-II) the user that first requests the resource should also be first granted access to it; <br>
+- the two users should not use the resource simultaneously and each user should always be able to repeat its request-use-release cycle; <br>
+- the user that first requests the resource should also be first granted access to it; <br>
 To satisy the two specifications change model and use the Modular Approach
 
 ## Third case of study
 Specifications: <br>
-I) the two users should not use the resource simultaneously and each user should always be able to repeat its request-use-release cycle; <br>
-II) the user that first requests the resource should also be first granted access to it; <br>
+- the two users should not use the resource simultaneously and each user should always be able to repeat its request-use-release cycle; <br>
+- the user that first requests the resource should also be first granted access to it; <br>
 
